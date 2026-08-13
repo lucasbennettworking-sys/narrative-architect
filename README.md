@@ -173,7 +173,7 @@ be honest about the struggles — not a hero narrative. Medium length, grounded 
 | StoryScope Paper (COLM 2026) | The foundational research — 10 dimensions, 304 features, 61K stories | [arxiv.org/abs/2604.03136](https://arxiv.org/abs/2604.03136) |
 | Story Grid | Structural story analysis by genre — essential for understanding narrative architecture | [storygrid.com](https://storygrid.com) |
 | Save the Cat | Screenwriting structure (Blake Snyder) applied to all narrative forms | [savethecat.com](https://savethecat.com) |
-| Brandon Sanderson's Lectures | Free BYU creative writing lectures on story structure and character | [youtube.com/BrandonSanderson](https://www.youtube.com/user/BrandonSanderson) |
+| Brandon Sanderson's Lectures | Free BYU creative writing lectures on story structure and character | [youtube.com/BrandonSanderson](https://www.youtube.com/@BrandSanderson) |
 | Writing Excuses | Weekly podcast: "fifteen minutes long, because you're in a hurry" | [writingexcuses.com](https://writingexcuses.com) |
 | K.M. Weiland | Scene structure, character arcs, and story structure workbooks | [kmweiland.com](https://www.kmweiland.com) |
 | Coozmoo Hooks Generator | Generate attention-grabbing opening hooks for stories and content | [coozmoo.com/tools/hooks-generator](https://coozmoo.com/tools/hooks-generator) |
@@ -284,7 +284,7 @@ User Prompt
 | University of Maryland | StoryScope paper authors, NLP and computational linguistics | [umd.edu](https://www.umd.edu) |
 | Coozmoo | AI-powered digital marketing, generative search, content creation tools | [coozmoo.com](https://coozmoo.com) |
 | Hugging Face | Open-source AI models, writing model benchmarks and evaluations | [huggingface.co](https://huggingface.co) |
-| AI Writers (Reddit) | Community discussions on AI fiction, narrative generation, prompt engineering | [reddit.com/r/AIWriters](https://www.reddit.com/r/AIWriters) |
+| AI Writers (Reddit) | Community discussions on AI fiction, narrative generation, prompt engineering | [reddit.com/r/AIWriters](https://www.reddit.com/r/WritingWithAI/) |
 
 ---
 
@@ -339,7 +339,7 @@ If you've tested Narrative Architect against AI detection tools, or if you've de
 | Repo | What It Does |
 |------|-------------|
 | [Narrative Humanizer](https://github.com/austismkeller-create/narrative-humanizer) | Post-hoc humanization of AI-written text — 20 AI tells detected and neutralized |
-| [Full-Stack Marketing Audit](https://github.com/austismkeller-create/fullstack-marketing-audit) | 8-channel marketing diagnostic for SEO, PPC, Social, Local, CRO, Email, Reputation, AI Search |
+| [Full-Stack Marketing Audit](https://github.com/parkercasey735-ai/fullstack-marketing-audit) | 8-channel marketing diagnostic for SEO, PPC, Social, Local, CRO, Email, Reputation, AI Search |
 
 ---
 
